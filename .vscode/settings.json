@@ -1,0 +1,8 @@
+{
+  "vscord.enabled": false,
+  "scss.lint.unknownAtRules": "ignore",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
+}
