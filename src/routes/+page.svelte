@@ -13,6 +13,8 @@
       if (+c >= 10000) {
         window.open('https://codepen.io/masudrana2779/full/zYaggOr', '_blank');
       }
+
+      count = c;
     }, 1000);
 
     return () => {
