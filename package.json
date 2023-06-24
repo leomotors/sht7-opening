@@ -8,9 +8,9 @@
     "seed": "tsx prisma/seed.ts"
   },
   "scripts": {
-    "dev": "vite dev --port 5700",
+    "dev": "vite dev --port 6969",
     "build": "vite build",
-    "preview": "vite preview --port 5700",
+    "preview": "vite preview --port 6969",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
     "test:unit": "vitest",
